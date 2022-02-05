@@ -26,12 +26,57 @@ Evaluation
 
 Students are evaluated based on their individual performance in the following categories/deliverables:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class presentations | 20% |
-| Mid-term paper | 25% |
-| Final paper | 35% |
-| Contribution to class discussions | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class presentations
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term paper
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Contribution to class discussions
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Class Presentations
 
@@ -52,22 +97,201 @@ Quality beats quantity; engage with class readings: what are the most surprising
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**I: Understanding urbanization and development in past and present**{{< /td-colspan >}} |||
-| 1 | Introduction: stock-taking and outlook | &nbsp; |
-| 2 | Urbanization and development in historical analysis: links and ruptures | &nbsp; |
-| 3 | Exploring ideologies: competing views of urbanization and development | &nbsp; |
-| {{< td-colspan 3 >}}**II: Regional perspectives on urbanization and development**{{< /td-colspan >}} |||
-| 4 | Urbanization and development in Central and South America | &nbsp; |
-| 5 | Urbanization and development in Asia-Pacific | &nbsp; |
-| 6 | Urbanization and development in the Middle East and North Africa | &nbsp; |
-| 7 | Urbanization and development in Sub-Saharan Africa | Mid-term paper assigned |
-| {{< td-colspan 3 >}}**III: Urbanization and development: selected policy challenges**{{< /td-colspan >}} |||
-| 8 | Urban informality: the shifting locus of poverty | Mid-term paper due |
-| 9 | The power of place: environmental sustainability and urban health | &nbsp; |
-| 10 | Violence in cities: the limits of community and the reign of terror | &nbsp; |
-| 11 | Governing developing cities: structure and agency in local governance | Final paper assigned |
-| {{< td-colspan 3 >}}**IV: Critical analyses of urbanization and development**{{< /td-colspan >}} |||
-| 12 | The 'glocal' politics of urban development: harmony and havoc | &nbsp; |
-| 13 | City futures: global predictions and local resurgence | Final paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**I: Understanding urbanization and development in past and present**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: stock-taking and outlook
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Urbanization and development in historical analysis: links and ruptures
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Exploring ideologies: competing views of urbanization and development
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**II: Regional perspectives on urbanization and development**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Urbanization and development in Central and South America
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Urbanization and development in Asia-Pacific
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Urbanization and development in the Middle East and North Africa
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Urbanization and development in Sub-Saharan Africa
+{{< tdclose >}}
+{{< tdopen >}}
+Mid-term paper assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**III: Urbanization and development: selected policy challenges**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Urban informality: the shifting locus of poverty
+{{< tdclose >}}
+{{< tdopen >}}
+Mid-term paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The power of place: environmental sustainability and urban health
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Violence in cities: the limits of community and the reign of terror
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Governing developing cities: structure and agency in local governance
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**IV: Critical analyses of urbanization and development**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+The 'glocal' politics of urban development: harmony and havoc
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+City futures: global predictions and local resurgence
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
