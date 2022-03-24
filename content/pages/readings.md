@@ -202,7 +202,7 @@ Amis, Philip. "Municipal Government, Urban Economic Growth and Poverty Reduction
 
 Beall, Jo. "Urban Livelihoods." In _Towards a New Map of Africa_. Edited by Ben Wisner, Camilla Toulmin, and Rutendo Chitiqa. London, UK: Earthscan Publications, 2005, pp. 97-112. ISBN: 9781844070930.
 
-Davis, Mike. "Planet of Slums: Urban Involution and the Informal Proletariat." _New Left Review_ 26 (2004): 5-36. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.foresightfordevelopment.org/sobipro/54/503-planet-of-slums-urban-involution-and-the-informal-proletariat))
+Davis, Mike. "Planet of Slums: Urban Involution and the Informal Proletariat." _New Left Review_ 26 (2004): 5-36. ([PDF](http://www.foresightfordevelopment.org/sobipro/54/503-planet-of-slums-urban-involution-and-the-informal-proletariat))
 
 Simone, AbdouMaliq. "Pirate Towns: Reworking Social and Symbolic Infrastructures in Johannesburg and Douala." _Urban Studies_ 43, no. 2 (2006): 357-370.
 
